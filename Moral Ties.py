@@ -13,7 +13,7 @@ import csv
 ###############################################################################
 # Read the file. 
 start = time.time()
-with open("\\Users\\axabadia\\Desktop\\Moral Ties\\proofs_moral ties\\net_1000\\190.txt") as f:
+with open("\\Users\\xxxx\\Desktop\\Moral Ties\\net_1000\\100.txt") as f:
     f=[x.strip() for x in f if x.strip()]
     data=[tuple(map(int,x.split())) for x in f[0:]]
     IN=[x[0] for x in data]
@@ -81,7 +81,7 @@ def neighborhood():
     return [neighd]
     
 ###############################################################################
-#6. Transitivity
+#6. Clustering Coefficient
 #------------------------------------------------------------------------------
 def groupSize(node,a):
     links = 0
@@ -126,19 +126,19 @@ a=neighborhood()
 sc=float(sum(population))/n
 for j in range(time_period):
     for i in range(n): 
-        cc=indirectMoralTies(i,a,population)
+        cc=indirectMoralTies(i,a,population) # INDIRECT MORAL TIES
         ct=groupSize(i,a)
         sp=A_strategy(i,a,population)[0]
-        fc=(float(sum(sp))/len(sp))*100
+        fc=(float(sum(sp))/len(sp))*100  # DIRECT MORAL TIES
         if fc > 99:
             fc=99
-        with open('\\Users\\axabadia\\Desktop\\Moral Ties\\proofs_moral ties\\fc.txt','a') as fR:
+        with open('\\Users\\xxxx\\Desktop\\Moral Ties\\fc.txt','a') as fR:
             fR.write('%.5f\n' % fc)
             fR.close()
-        with open('\\Users\\axabadia\\Desktop\\Moral Ties\\proofs_moral ties\\cc.txt','a') as fR:
+        with open('\\Users\\xxxx\\Desktop\\Moral Ties\\cc.txt','a') as fR:
             fR.write('%.5f\n' % cc)
             fR.close()
-        with open('\\Users\\axabadia\\Desktop\\Moral Ties\\proofs_moral ties\\ct.txt','a') as fR:
+        with open('\\Users\\xxxx\\Desktop\\Moral Ties\\ct.txt','a') as fR:
             fR.write('%.5f\n' % ct)
             fR.close()
     print(j)
