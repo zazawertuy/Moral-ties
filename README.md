@@ -12,10 +12,10 @@ ties on peer pressure for networks of any topology and size and discuss policy i
 # Code
 1.- The folder "Networks" contains networks with 1000 and 7500 nodes ordered by an increasing value of clustering coefficient.
 
-2.- The file "Moral Ties.py" in Python uses the networks presented in folder "Networks" and provides the metrics for both
+2.- The file "code/Moral Ties.py" in Python uses the networks presented in folder "Networks" and provides the metrics for both
 Direct Moral Ties and Indirect Moral Ties. It also provides the inputs for the proofs of Theorems 1 and 3.
 
-3.- The file "proofs of Theorems 1 and 3.R" in R analyzes the robustness of the approximation for both Theorems in the article.
+3.- The file "code/proofs of Theorems 1 and 3.R" in R analyzes the robustness of the approximation for both Theorems in the article.
 
 
 
