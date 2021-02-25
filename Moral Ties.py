@@ -81,7 +81,7 @@ def neighborhood():
     return [neighd]
     
 ###############################################################################
-#6. Clustering Coefficient
+#6. Clustering Coefficient (groupSize) and Indirect Moral Ties (indirectMoralTies)
 #------------------------------------------------------------------------------
 def groupSize(node,a):
     links = 0
@@ -114,7 +114,7 @@ time_period=1
 cooperantes = []
 nivel = []
 p=0.5
-population=runif(nodes()[0],1-p)# 1 - p denotes the share of compliers
+population=runif(nodes()[0],1-p) # 1 - p denotes the share of compliers
 population=population[0]
 cooperantes.append(sum(population))
 a=neighborhood()
@@ -127,7 +127,7 @@ sc=float(sum(population))/n
 for j in range(time_period):
     for i in range(n): 
         cc=indirectMoralTies(i,a,population) # INDIRECT MORAL TIES
-        ct=groupSize(i,a)
+        ct=groupSize(i,a) # CLUSTERING COEFFICIENT
         sp=A_strategy(i,a,population)[0]
         fc=(float(sum(sp))/len(sp))*100  # DIRECT MORAL TIES
         if fc > 99:
