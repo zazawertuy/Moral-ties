@@ -1,7 +1,7 @@
 # Moral ties
 Code for the article "Moral Ties, Peer Pressure and Social Norms of Cooperation"
 ###########################################################################################################
-Abstract                                                                                                                                         
+# Abstract                                                                                                                                         
 We present an analytical framework for studying the influence of networks on the adherence to social norms as a
 result of peer pressure.We introduce a new concept, termed moral ties, that combines the agents’ actions with
 network metrics and allows quantifying the capacity of agents to exercise and coordinate peer pressure. The 
