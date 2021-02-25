@@ -10,7 +10,7 @@ with respect to moral ties present identical peer pressure. We signpost the mini
 ties on peer pressure for networks of any topology and size and discuss policy implications for the promotion of social norms.   
 
 # Code
-1.- The folder "Networks" contains networks with 1000 and 7500 nodes ordered by an increasing value of clustering cohesiveness.
+1.- The folder "Networks" contains networks with 1000 and 7500 nodes ordered by an increasing value of clustering coefficient.
 
 2.- The file "Moral Ties.py" in Python uses the networks presented in folder "Networks" and provides the metrics for both
 Direct Moral Ties and Indirect Moral Ties. It also provides the inputs for the proofs of Theorems 1 and 3.
