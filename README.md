@@ -16,7 +16,7 @@ ties on peer pressure for networks of any topology and size and discuss policy i
 Direct Moral Ties and Indirect Moral Ties which combines network metrics and the agents' actions. It also exports the inputs
 for the proofs of Theorems 1 and 3.
 
-3.- The file "Proofs of Theorems 1 and 3.R" in R analyzes the robustness of the approximation for both Theorems in the article.
+3.- The file "proofs of Theorems 1 and 3.R" in R analyzes the robustness of the approximation for both Theorems in the article.
 
 
 
