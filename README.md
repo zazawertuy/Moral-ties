@@ -1,5 +1,5 @@
 # Moral ties
-Code for the article "Moral Ties, Peer Pressure and Social Norms of Cooperation"
+Code for the article "Moral Ties, Peer Pressure and Social Norms of Cooperation".
 
 # Abstract                                                                                                                                         
 We present an analytical framework for studying the influence of networks on the adherence to social norms as a
