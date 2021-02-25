@@ -4,7 +4,7 @@ c<-read.table("\\Users\\axabadia\\Desktop\\Moral Ties\\proofs_moral ties\\fc.txt
 c<-c/100
 #2. Indirect moral ties
 imt<-read.table("\\Users\\axabadia\\Desktop\\Moral Ties\\proofs_moral ties\\cc.txt",header=F)
-#3. Group cohesiveness
+#3. Clustering Coefficient
 t<-read.table("\\Users\\axabadia\\Desktop\\Moral Ties\\proofs_moral ties\\ct.txt",header=F)
 D<-list()
 for(i in 1:length(c[,1])){
