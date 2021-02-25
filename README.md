@@ -7,7 +7,6 @@ result of peer pressure. We introduce a new concept, termed moral ties, that com
 network metrics and allows quantifying the capacity of agents to exercise and coordinate peer pressure. The 
 effects of moral ties on peer pressure are non-linear and independent from group size. Only isomorphic networks
 with respect to moral ties present identical peer pressure. We signpost the minimal and maximal effects of moral
-ties on peer pressure for networks of any topology and size and discuss policy implications for the promotion           
-of social norms.                                                                                                                                 
+ties on peer pressure for networks of any topology and size and discuss policy implications for the promotion of social norms.                                                                                                                                 
 
 
