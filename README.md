@@ -1,13 +1,16 @@
 # Moral ties
-Code for the article "Moral Ties, Peer Pressure and Social Norms of Cooperation".
+Code for the article "The strength of moral ties".
 
 # Abstract                                                                                                                                         
-We present an analytical framework for studying the influence of networks on the adherence to social norms as a
-result of peer pressure. We introduce a new concept, termed moral ties, that combines the agents’ actions with
-network metrics and allows quantifying the capacity of agents to exercise and coordinate peer pressure. The 
-effects of moral ties on peer pressure are non-linear and independent from group size. Only isomorphic networks
-with respect to moral ties present identical peer pressure. We signpost the minimal and maximal effects of moral
-ties on peer pressure for networks of any topology and size and discuss policy implications for the promotion of social norms.   
+We study cooperation and group pressure in social networks by introducing a new concept termed moral ties. By combining network characteristics and agents’ actions, 
+moral ties extend and refine the concept of social ties as a driver for group pressure. Direct moral ties depend on the size of the group the agent relates to and the
+dissimilarity between the actions taken by the agent and the actions taken by the group. Indirect moral ties take account of the cohesiveness of cooperators and express 
+the capacity of cooperative agents to coordinate group pressure. Individual decisions are driven by private net benefits and group pressure where the latter is the 
+result of direct and indirect moral ties. Once group pressure exceeds the threshold of private net benefits agents switch from non-cooperation to cooperation. We find
+that, depending on the relationship between group polarization and the level of the agents’ commitment with collective interest, group size and indirect moral ties are
+either complements or substitutes of direct moral ties for attaining the threshold. We determine the efficient policy (formal vs. informal) for increasing indirect moral
+ties  as a function of direct moral ties and group cohesiveness at the network level. We find that informal policies are more efficient when group cohesiveness is below
+one half, and the strength of direct moral ties is at least twice the value of group cohesiveness. Otherwise, formal polices are more efficient.    
 
 # Code
 1.- The folder "Networks" contains networks with 1000 and 7500 nodes ordered by an increasing value of clustering coefficient.
