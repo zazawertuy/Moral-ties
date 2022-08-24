@@ -13,7 +13,7 @@ ties  as a function of direct moral ties and group cohesiveness at the network l
 one half, and the strength of direct moral ties is at least twice the value of group cohesiveness. Otherwise, formal polices are more efficient.    
 
 # Code
-1.- The folder "Networks" contains networks with 1000 and 7500 nodes ordered by an increasing value of clustering coefficient.
+1.- The folder "Networks" contains networks with 1000 and 7500 nodes ordered by an increasing value of group cohesiveness.
 
 2.- The file "code/Moral Ties.py" in Python uses the networks presented in folder "Networks" and provides the metrics for both
 Direct Moral Ties and Indirect Moral Ties. It also provides the inputs for the numerical verification of the proofs for Theorems 2 and 3 in the article.
