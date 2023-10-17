@@ -2,15 +2,17 @@
 Code for the article "The strength of moral ties".
 
 # Abstract                                                                                                                                         
-We study cooperation and group pressure in social networks by introducing a new concept termed moral ties. By combining network characteristics and agents’ actions, 
-moral ties extend and refine the concept of social ties as a driver for group pressure. Direct moral ties depend on the size of the group the agent relates to and the
-dissimilarity between the actions taken by the agent and the actions taken by the group. Indirect moral ties take account of the cohesiveness of cooperators and express 
-the capacity of cooperative agents to coordinate group pressure. Individual decisions are driven by private net benefits and group pressure where the latter is the 
-result of direct and indirect moral ties. Once group pressure exceeds the threshold of private net benefits agents switch from non-cooperation to cooperation. We find
-that, depending on the relationship between group polarization and the level of the agents’ commitment with collective interest, group size and indirect moral ties are
-either complements or substitutes of direct moral ties for attaining the threshold. We determine the efficient policy (formal vs. informal) for increasing indirect moral
-ties  as a function of direct moral ties and group cohesiveness at the network level. We find that informal policies are more efficient when group cohesiveness is below
-one half, and the strength of direct moral ties is at least twice the value of group cohesiveness. Otherwise, formal polices are more efficient.    
+We study cooperation and group pressure on social networks by introducing a new concept termed moral ties. By combining network characteristics and agents’ actions,
+direct and indirect moral ties extend and refine the concept of social ties and the role of cohesiveness as drivers of group pressure and cooperation. The results
+show that a strong commitment by agents with collective interests or a high degree of polarization minimizes the effect of indirect moral ties on cooperation. We
+demonstrate that an increase in indirect moral ties does not necessarily lead to a decrease in the critical mass of compliers for supporting cooperation. We demonstrate
+that informal policies are more efficient in promoting cooperation than formal policies are when the expected strength of direct moral ties is at least twice the value
+of the expected group cohesiveness of the network. Otherwise, formal policies are more efficient. 
+
+Keywords: Cooperation; Social networks; Group polarization; Moral motivation; Social dilemma; Social norms.
+
+JEL classification: D62; D63; D74; D91; H00.
+
 
 # Code
 1.- The folder "Networks" contains networks with 1000 and 7500 nodes ordered by an increasing value of group cohesiveness.
