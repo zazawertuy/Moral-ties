@@ -21,7 +21,7 @@ Vc<-var(c[,1])
 Vt<-var(t[,1])
 Vimt<-var(imt[,1])
 Vc;Vimt
-#Proof of Theorem 2
+#Proof of Theorem 1
 sEimt<-Et*ED
 Eimt;sEimt;Et*(Ec^2+Vc)
 #Proof of Theorem 3
