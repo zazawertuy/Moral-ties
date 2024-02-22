@@ -1,17 +1,12 @@
-# Moral ties
-Code for the article "The strength of moral ties".
+# Social networks, norm-enforcing ties and cooperation
+Code for the article "Social networks, norm-enforcing ties and cooperation".
 
 # Abstract                                                                                                                                         
-We study cooperation and group pressure on social networks by introducing a new concept termed moral ties. By combining network characteristics and agents’ actions,
-direct and indirect moral ties extend and refine the concept of social ties and the role of cohesiveness as drivers of group pressure and cooperation. The results
-show that a strong commitment by agents with collective interests or a high degree of polarization minimizes the effect of indirect moral ties on cooperation. We
-demonstrate that an increase in indirect moral ties does not necessarily lead to a decrease in the critical mass of compliers for supporting cooperation. We demonstrate
-that informal policies are more efficient in promoting cooperation than formal policies are when the expected strength of direct moral ties is at least twice the value
-of the expected group cohesiveness of the network. Otherwise, formal policies are more efficient. 
+We study cooperation and group pressure on social networks by introducing a new concept termed norm-enforcing ties. By combining network characteristics and agents’ actions, direct and indirect norm-enforcing ties extend and refine the concept of social ties and the role of cohesiveness as drivers of group pressure and cooperation. The results show that a strong commitment by agents with collective interests or a high degree of confrontation minimizes the effect of indirect norm-enforcing ties on cooperation. The results show that an increase in indirect norm-enforcing ties does not necessarily lead to a decrease in the critical mass of compliers for supporting cooperation. We demonstrate that network-orientated policies are more efficient in promoting cooperation than standard economic policy instruments when the expected strength of direct norm-enforcing ties is at least twice the value of the expected group cohesiveness of the network. Otherwise, economic policy instruments are more efficient. 
 
-Keywords: Cooperation; Social networks; Group polarization; Moral motivation; Social dilemma; Social norms.
+Keywords: Social norms; social network; cooperation; social dilemma, network-orientated policies.
 
-JEL classification: D62; D63; D74; D91; H00.
+JEL classification: D85; D91.
 
 
 # Code
