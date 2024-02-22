@@ -2176,7 +2176,7 @@ Cell[BoxData[
      RowBox[{"FrameLabel", "->", " ", 
       RowBox[{"{", 
        RowBox[{
-       "\"\<Share of compliers\>\"", ",", "\"\<Indirect  moral  ties\>\""}], 
+       "\"\<Share of compliers\>\"", ",", "\"\<Indirect  Norm Enforcing  ties\>\""}], 
        "}"}]}], ",", 
      RowBox[{"ContourLabels", " ", "->", " ", "True"}], ",", 
      RowBox[{"Epilog", "->", 
@@ -2309,7 +2309,7 @@ $CellContext`Id))]) -
 \[Upsilon]1$$ $CellContext`c + ($CellContext`\[Upsilon]2$$ (
             1 - $CellContext`c)) $CellContext`c), {$CellContext`c, 0, 
          1.1}, {$CellContext`Id, 0, 1}, 
-        FrameLabel -> {"Share of compliers", "Indirect  moral  ties"}, 
+        FrameLabel -> {"Share of compliers", "Indirect  Norm Enforcing  ties"}, 
         ContourLabels -> True, Epilog -> First[
           Plot[
            
@@ -3693,7 +3693,7 @@ Cell[BoxData[
      RowBox[{"FrameLabel", "->", " ", 
       RowBox[{"{", 
        RowBox[{
-       "\"\<Share of compliers\>\"", ",", "\"\<Indirect  moral  ties\>\""}], 
+       "\"\<Share of compliers\>\"", ",", "\"\<Indirect  Norm Enforcing  ties\>\""}], 
        "}"}]}], ",", 
      RowBox[{"ContourLabels", " ", "->", " ", "True"}], ",", 
      RowBox[{"Epilog", "->", 
@@ -3822,7 +3822,7 @@ $CellContext`Id))]) -
 \[Upsilon]1$$ $CellContext`c + ($CellContext`\[Upsilon]2$$ (
             1 - $CellContext`c)) $CellContext`c), {$CellContext`c, 0, 
          1.1}, {$CellContext`Id, 0, 1}, 
-        FrameLabel -> {"Share of compliers", "Indirect  moral  ties"}, 
+        FrameLabel -> {"Share of compliers", "Indirect  Norm Enforcing  ties"}, 
         ContourLabels -> True, Epilog -> First[
           Plot[
            
@@ -7156,7 +7156,7 @@ Cell[BoxData[
      RowBox[{"FrameLabel", "->", " ", 
       RowBox[{"{", 
        RowBox[{
-       "\"\<Share of compliers\>\"", ",", "\"\<Indirect  moral  ties\>\""}], 
+       "\"\<Share of compliers\>\"", ",", "\"\<Indirect  Norm Enforcing  ties\>\""}], 
        "}"}]}], ",", 
      RowBox[{"ContourLabels", " ", "->", " ", "True"}], ",", " ", 
      RowBox[{"Epilog", "->", 
@@ -7271,7 +7271,7 @@ $CellContext`Id))]) -
 \[Upsilon]1$$ $CellContext`c + ($CellContext`\[Upsilon]2$$ (
             1 - $CellContext`c)) $CellContext`c), {$CellContext`c, 0, 
          1.1}, {$CellContext`Id, 0, 1}, 
-        FrameLabel -> {"Share of compliers", "Indirect  moral  ties"}, 
+        FrameLabel -> {"Share of compliers", "Indirect  Norm Enforcing  ties"}, 
         ContourLabels -> True, Epilog -> First[
           Plot[
            
