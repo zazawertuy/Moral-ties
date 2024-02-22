@@ -1,11 +1,11 @@
 #Read the data
-#1. Direct moral ties
-c<-read.table("\\Users\\axabadia\\Desktop\\Moral Ties\\proofs_moral ties\\fc.txt", header=F)
+#1. Direct Norm Enforcing Ties
+c<-read.table("\\Users\\axabadia\\Desktop\\Norm Enforcing Ties\\proofs_Norm Enforcing ties\\fc.txt", header=F)
 c<-c/100
-#2. Indirect moral ties
-imt<-read.table("\\Users\\axabadia\\Desktop\\Moral Ties\\proofs_moral ties\\cc.txt",header=F)
+#2. Indirect Norm Enforcing ties
+imt<-read.table("\\Users\\axabadia\\Desktop\\Norm Enforcing Ties\\proofs_Norm Enforcing ties\\cc.txt",header=F)
 #3. Clustering Coefficient
-t<-read.table("\\Users\\axabadia\\Desktop\\Moral Ties\\proofs_moral ties\\ct.txt",header=F)
+t<-read.table("\\Users\\axabadia\\Desktop\\Norm Enforcing Ties\\proofs_Norm Enforcing ties\\ct.txt",header=F)
 D<-list()
 for(i in 1:length(c[,1])){
   D[i]<-c[i,1]^2
