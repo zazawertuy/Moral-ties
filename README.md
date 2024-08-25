@@ -17,7 +17,7 @@ Direct Moral Ties and Indirect Moral Ties. It also provides the inputs for the n
 
 3.- The file "code/proofs of Theorems 1 and 3.R" in R provides the numerical verification of the proofs for Theorems 1 and 3 in the article.
 
-4.- The file "code/NET Figures.nb" in Mathematica reproduces the Figures 2-4 of the article and Figures C1-C4 and Figure D1 of its Appendices.
+4.- The file "code/JEIC Figures.nb" in Mathematica reproduces the Figures 2-4 of the article and Figures C1-C4 and Figure D1 of its Appendices.
 
 
 
